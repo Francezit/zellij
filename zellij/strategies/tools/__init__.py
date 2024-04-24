@@ -57,4 +57,4 @@ from .measurements import Level, Radius, Sigma2, SigmaInf
 
 from .turbo_state import TurboState, CTurboState
 
-from .operators import DeapOnePoint, DeapTournament, NeighborMutation
+from .operators import DeapMutation,DeapOnePoint, DeapTournament, NeighborMutation,DeapSimulatedBinaryBounded
